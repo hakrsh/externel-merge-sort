@@ -3,7 +3,7 @@ The goal is to split the large file into smaller chunks and sort the temporary f
 ### run instruction
 ```
 g++ main.cpp
-./a.out
+./a.out <input_file> <output_file>
 ```
 
 ### Input
