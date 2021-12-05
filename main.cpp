@@ -164,7 +164,7 @@ int32_t main(int32_t argc, char *argv[]) {
   // cout << "Enter file name: ";
   // string fname;
   // cin >> fname;
-  if (argc < 2) {
+  if (argc < 3) {
     cout << "ERROR: USAGE <inputfile> <outputfile>\n";
     exit(0);
   }
